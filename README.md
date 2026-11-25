@@ -17,8 +17,7 @@ The sample is small, so the margin of error is about 7 points.
 
 - Google Colab with a T4 GPU (Runtime > Change runtime type)
 - Python packages: `unsloth`, `datasets`, `google-genai`
-- Optional: a Gemini API key from aistudio.google.com/apikey, saved in Colab Secrets as `Gemini_API_Key` with notebook access on
-
+- Optional: a Gemini API key 
 ## Setup and run
 
 Open `banking-intent-classifier.ipynb` in Colab and run the cells in order. The install cell is:
